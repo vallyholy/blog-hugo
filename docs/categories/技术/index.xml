@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技术 on Vally Holy</title>
+    <link>https://vallyholy.github.io/blog-hugo/categories/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on Vally Holy</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vallyholy.github.io/blog-hugo/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub 使用指南</title>
+      <link>https://vallyholy.github.io/blog-hugo/posts/github-guide/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://vallyholy.github.io/blog-hugo/posts/github-guide/</guid>
+      <description>&lt;h1 id=&#34;github-使用指南&#34;&gt;GitHub 使用指南&lt;/h1&gt;&#xA;&lt;p&gt;GitHub 是一个全球领先的代码托管平台。&lt;/p&gt;&#xA;&lt;h2 id=&#34;主要功能&#34;&gt;主要功能&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;代码仓库&lt;/strong&gt; - 存储和管理代码&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;版本控制&lt;/strong&gt; - Git 版本管理系统&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;协作开发&lt;/strong&gt; - Pull Request, Issues&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub Pages&lt;/strong&gt; - 免费静态网站托管&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;快速开始&#34;&gt;快速开始&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git init&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git add .&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git commit -m &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Initial commit&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git push&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;github-pages&#34;&gt;GitHub Pages&lt;/h2&gt;&#xA;&lt;p&gt;GitHub Pages 可以免费托管静态网站，支持自定义域名。&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>
