@@ -1,0 +1,8 @@
+# Hugo
+public/
+resources/
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db

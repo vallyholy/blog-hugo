@@ -1,0 +1,15 @@
+baseURL = 'https://vallyholy.github.io/blog-hugo/'
+languageCode = 'zh-cn'
+title = 'Vally Holy'
+defaultContentLanguage = 'zh-cn'
+
+[params]
+  subtitle = "个人博客 - 技术分享与生活记录"
+  description = "Vally Holy 的个人博客"
+  keywords = ["博客", "技术", "编程", "分享"]
+  author = "Vally Holy"
+  mainSections = ["posts"]
+
+[params.social]
+  github = "vallyholy"
+  email = "vally@example.com"

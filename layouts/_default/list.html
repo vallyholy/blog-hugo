@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="home">
+    <h1 class="home-title">{{ .Site.Title }}</h1>
+    <p class="home-subtitle">{{ with .Site.Params.subtitle }}{{ . }}{{ end }}</p>
+</section>
+
+{{ range where site.RegularPages "Type" "in" site.Params.mainSections }}
+<article class="post">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <div class="post-meta">{{ .Date.Format "2006-01-02" }}{{ with .Params.categories }} · {{ . }}{{ end }}</div>
+    <p>{{ with .Description }}{{ . }}{{ else }}{{ .Summary | truncate 150 }}{{ end }}</p>
+    <div class="tags">
+        {{ with .Params.tags }}
+            {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+        {{ end }}
+    </div>
+</article>
+{{ end }}
+{{ end }}
